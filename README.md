@@ -7,3 +7,6 @@ The dataset used for this project can be downloaded from the following link:
 along with the data set, I've also attached the trained model file saved in emotion_model.h5
 
 [Download Dataset](https://drive.google.com/drive/folders/1FFKmFe9NI_fShuvA5d9aAOXHB6SmbQsB?usp=sharing)
+
+
+Also in the requirements.txt file there is the list of all the libraries used in this project
